@@ -1,13 +1,35 @@
-# building a fashion closet decision tool based on some rules
+Fashion outfit decision tool or The Outfit Oracle
 
-### lets call it outfit oracle
+either group TWO or THREE items together based on the following rules
+
+clothing items are randomly generated, eg. 10 items or more
+then there are several rules for how theses items can be combined based on:
+their type ('upper garment', 'lower garment')
+their fit ('loose', 'fitted') 
+their colour ('red', 'blue', 'yellow', 'orange', 'green', 'purple', 'white', 'black')
+
+so only compatible items will be grouped together
+
+Rules:
+
+Type: 
+- each pair or group of items need to have at least one of each type ('upper garment', 'lower garment')
+- but not all of the same type so that each group creates an actual outfit
+- but can be two upper garments and one lower or vice versa
+
+Fit:
+- each pair or group of items need to have at least one of each fit ('loose', 'fitted')
+- but not all of the same fit
+- for the group of three items, there cant be two items of the same type and fit and only the third item different
+
+colour:
+- primary colours can only be combined with primary colours
+- secondary and neutral colours (like on a classic colour wheel) can be combined amongst themseleves
+
+based on these rules the items will be paired or grouped together
 
 
-there should be a randomly generated closet  to test it and then also the option to input your own items
-
-So a class with different allowed values for different attributes
-
-Then first try with the randomly generated instances
-Have your own instance of your closet in a separate file
-
-Then filter and categorise based on attributes so they follow the rules to group them into pairs or groups so you create outfits 
+these items are supposed to represent a range of clothing items 
+so a loose, upper garment could be a jumper
+or a tight lower garment could be a pair of trousers
+etc
