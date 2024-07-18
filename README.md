@@ -1,16 +1,14 @@
-Fashion outfit decision tool or The Outfit Oracle
+## Fashion outfit decision tool or The Outfit Oracle
 
-either group TWO or THREE items together based on the following rules
 
-clothing items are randomly generated, eg. 10 items or more
-then there are several rules for how theses items can be combined based on:
-their type ('upper garment', 'lower garment')
-their fit ('loose', 'fitted') 
-their colour ('red', 'blue', 'yellow', 'orange', 'green', 'purple', 'white', 'black')
+- clothing items are randomly generated, eg. 10 items or more
+- either TWO or THREE items are paired/grouped together
+- then there are several rules for how theses items can be combined based on: their type ('upper garment', 'lower garment'), their fit ('loose', 'fitted'), their colour ('red', 'blue', 'yellow', 'orange', 'green', 'purple', 'white', 'black')
 
-so only compatible items will be grouped together
+- so only compatible items will be grouped together
 
-Rules:
+# 
+#### Rules:
 
 Type: 
 - each pair or group of items need to have at least one of each type ('upper garment', 'lower garment')
@@ -26,10 +24,10 @@ colour:
 - primary colours can only be combined with primary colours
 - secondary and neutral colours (like on a classic colour wheel) can be combined amongst themseleves
 
-based on these rules the items will be paired or grouped together
+# 
+
+Based on these rules the items will be paired or grouped together
 
 
-these items are supposed to represent a range of clothing items 
-so a loose, upper garment could be a jumper
-or a tight lower garment could be a pair of trousers
+These items are supposed to represent a range of clothing items, so a loose, upper garment could be a jumper; or a tight lower garment could be a pair of trousers
 etc
