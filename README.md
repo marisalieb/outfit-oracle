@@ -1,10 +1,10 @@
-## Fashion outfit decision tool or The Outfit Oracle
+# Fashion outfit decision tool or The Outfit Oracle
 
+### How it works:
 
 - clothing items are randomly generated, eg. 10 items or more
 - either TWO or THREE items are paired/grouped together
 - then there are several rules for how theses items can be combined based on: their type ('upper garment', 'lower garment'), their fit ('loose', 'fitted'), their colour ('red', 'blue', 'yellow', 'orange', 'green', 'purple', 'white', 'black')
-
 - so only compatible items will be grouped together
 
 # 
@@ -26,8 +26,7 @@ colour:
 
 # 
 
-Based on these rules the items will be paired or grouped together
+Based on these rules the items will be paired or grouped together.
 
 
-These items are supposed to represent a range of clothing items, so a loose, upper garment could be a jumper; or a tight lower garment could be a pair of trousers
-etc
+These items are supposed to represent a range of clothing items, so a loose, upper garment could be a jumper; or a tight, lower garment could be a pair of trousers, etc.
